@@ -3,4 +3,5 @@ langsmith
 openai
 langchain_community
 langchain-openai
+langchain
 notebook
