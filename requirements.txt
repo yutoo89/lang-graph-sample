@@ -5,3 +5,5 @@ langchain_community
 langchain-openai
 langchain
 notebook
+pandas
+numpy
